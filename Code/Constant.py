@@ -46,5 +46,3 @@ daily_dict      = load_pickle(os.path.join(path_data,"icasa_units_daily_dic.pkl"
 summary_dict    = load_pickle(os.path.join(path_data,"icasa_units_summary_dic.pkl"))
 mapping_dict    = load_pickle(os.path.join(path_data,"mapping_forward.pkl"))
 
-print(daily_dict)
-print(summary_dict)
